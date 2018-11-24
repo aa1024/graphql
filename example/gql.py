@@ -1,4 +1,4 @@
-#The example below shows how you can execute queries against a local schema.
+#The example below shows executing queries against a local schema.
 
 from gql import gql, Client
 
